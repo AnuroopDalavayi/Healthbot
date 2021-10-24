@@ -1,0 +1,8 @@
+This is your Welcome! package.
+I am HealthBuddy! at your service.
+Here we trying achieve and maintain positive body image.
+**commands for the bot**
+1. $workoutplan
+2. $day1,$day2...$day7(choose any day in a week)
+3. $inspire
+4. ***Do not @tag/menction me twice***

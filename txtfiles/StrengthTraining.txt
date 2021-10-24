@@ -1,0 +1,12 @@
+Choose any 4 to 5 and keep with for **atleast 1hr**
+1. Body weight squats
+2. Body weight ski jumps
+3. Lunge dips
+4. Plank with single leg raise
+5. Side Plank
+6. Rope climb crunches
+
+*reference:*
+https://protips.dickssportinggoods.com/sports-and-activities/exercise-and-fitness/bodyweight-fitness-strength-training-without-weights
+
+***If completed let me know by command $done_d1, $done_d2..., $done_d5***

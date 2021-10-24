@@ -1,0 +1,10 @@
+One Day a Week **(20mins)**
+Choose any of the following to workout. If you are just starting , you want to try a 2-to-1 rest-to-work ratio, says Rosante (so, 30 secons of workout followed by 60 seconds of rest).
+1. Jumping high Knees
+2. Push ups
+3. Running
+4. Cycling
+5. Burpees
+6. Skipping rope
+
+***If completed let me know by command $done_d1, $done_d2..., $done_d5***

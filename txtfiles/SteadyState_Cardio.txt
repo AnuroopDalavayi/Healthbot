@@ -1,0 +1,8 @@
+This time it’s all about that long, slow burn. choose any of the following and continue for **atleast (45mins)**
+1. Running
+2. Cycling
+3. Swimming
+4. Brisk walk
+5. Skipping rope
+
+***If completed let me know by command $done_d1, $done_d2..., $done_d5***
